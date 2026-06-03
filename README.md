@@ -22,5 +22,5 @@ predict("Win a free iPhone now! Click here")  # → spam
 predict("Hey, are we still meeting at 5pm?")  # → ham
 ```
 
-5. Run it yourself
+ Run it yourself
 Open `spam_email_classifier.ipynb` in Google Colab and run all cells.
